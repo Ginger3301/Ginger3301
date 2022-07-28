@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ginger3301
 - 👀 I’m interested in: Parkour, programming
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: Java, Dart & Flutter
